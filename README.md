@@ -1,3 +1,3 @@
 Usina.Tech - Tests 
 
-[Laravel](https://github.com/usinatech/tests/laravel/BASIC.md)
+[Laravel](https://github.com/usinatech/tests/blob/master/laravel/BASIC.md)
